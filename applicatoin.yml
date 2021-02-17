@@ -1,0 +1,9 @@
+spring:
+    profiles:
+        active：
+
+---
+spring:
+    profiles: dev
+    application:
+        name: test
